@@ -1,336 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Xyina/UnityProj/NetWorkGameTest/Packages/manifest.json
+    m_FilePath: C:/Users/Redst/Documents/GitHub/NetWorkGameTest/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638932820689149705
-    m_Hash: 3592940814
+      ticks: 638932917792671154
+    m_Hash: 625152201
   m_LockFileStatus:
-    m_FilePath: D:/Xyina/UnityProj/NetWorkGameTest/Packages/packages-lock.json
+    m_FilePath: C:/Users/Redst/Documents/GitHub/NetWorkGameTest/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638932821621372661
-    m_Hash: 1315086801
+      ticks: 638932917792742465
+    m_Hash: 2510189415
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/Xyina/UnityProj/NetWorkGameTest/Packages
+m_ProjectPath: C:/Users/Redst/Documents/GitHub/NetWorkGameTest/Packages
 m_EditorVersion: 6000.0.57f1 (b7b9860b7bbd)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@2.9.2
-  testable: 0
-  isDirectDependency: 1
-  version: 2.9.2
-  source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.collab-proxy@8f3c30ecd081
-  assetPath: Packages/com.unity.collab-proxy
-  name: com.unity.collab-proxy
-  displayName: Unity Version Control
-  author:
-    name: 
-    email: 
-    url: 
-  category: Editor
-  type: 
-  description: The package gives you the ability to use Unity Version Control in
-    the Unity editor. To use Unity Version Control, a subscription is required. Learn
-    more about how you can get started for free by visiting https://unity.com/solutions/version-control
-  errors: []
-  versions:
-    all:
-    - 1.2.3-preview
-    - 1.2.4-preview
-    - 1.2.6
-    - 1.2.7
-    - 1.2.9
-    - 1.2.11
-    - 1.2.15
-    - 1.2.16
-    - 1.2.17-preview.3
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.9
-    - 1.4.9
-    - 1.5.7
-    - 1.6.0
-    - 1.7.1
-    - 1.8.0
-    - 1.9.0
-    - 1.10.2
-    - 1.11.2
-    - 1.12.5
-    - 1.13.5
-    - 1.14.1
-    - 1.14.4
-    - 1.14.7
-    - 1.14.9
-    - 1.14.12
-    - 1.14.13
-    - 1.14.15
-    - 1.14.16
-    - 1.14.17
-    - 1.14.18
-    - 1.15.1
-    - 1.15.4
-    - 1.15.7
-    - 1.15.9
-    - 1.15.12
-    - 1.15.13
-    - 1.15.15
-    - 1.15.16
-    - 1.15.17
-    - 1.15.18
-    - 1.17.0
-    - 1.17.1
-    - 1.17.2
-    - 1.17.6
-    - 1.17.7
-    - 2.0.0-preview.6
-    - 2.0.0-preview.8
-    - 2.0.0-preview.15
-    - 2.0.0-preview.17
-    - 2.0.0-preview.20
-    - 2.0.0-preview.21
-    - 2.0.0-preview.22
-    - 2.0.0
-    - 2.0.1
-    - 2.0.3
-    - 2.0.4
-    - 2.0.5
-    - 2.0.7
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
-    - 2.1.0
-    - 2.2.0
-    - 2.3.1
-    - 2.4.3
-    - 2.4.4
-    - 2.5.1
-    - 2.5.2
-    - 2.6.0
-    - 2.7.1
-    - 2.8.1
-    - 2.8.2
-    - 2.9.1
-    - 2.9.2
-    - 2.9.3
-    compatible:
-    - 2.9.2
-    - 2.9.3
-    recommended: 2.9.3
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - backup
-  - cloud
-  - collab
-  - collaborate
-  - collaboration
-  - control
-  - devops
-  - plastic
-  - plasticscm
-  - source
-  - team
-  - teams
-  - version
-  - vcs
-  - uvcs
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638914407139250000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.9/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 7acc62018a7e47ef094f85b7df33841ac1322791
-    path: 
-  unityLifecycle:
-    version: 2.9.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Fixed obsolete references to TreeViewState"}'
-  assetStore:
-    productId: 
-  fingerprint: 8f3c30ecd081c36da7c76793dbf29df18a0d828a
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 2.9.2
-    minimumUnityVersion: 2021.3.0f1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.ide.rider@3.0.36
-  testable: 0
-  isDirectDependency: 1
-  version: 3.0.36
-  source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
-  assetPath: Packages/com.unity.ide.rider
-  name: com.unity.ide.rider
-  displayName: JetBrains Rider Editor
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The JetBrains Rider Editor package provides an integration for using
-    the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
-    .csproj files for code completion and auto-discovery of installations.
-  errors: []
-  versions:
-    all:
-    - 1.0.2
-    - 1.0.6
-    - 1.0.8
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2-preview
-    - 1.1.2-preview.2
-    - 1.1.3-preview.1
-    - 1.1.4-preview
-    - 1.1.4
-    - 1.2.0-preview
-    - 1.2.1
-    - 2.0.0-preview
-    - 2.0.1
-    - 2.0.2
-    - 2.0.3
-    - 2.0.5
-    - 2.0.7
-    - 3.0.1
-    - 3.0.2
-    - 3.0.3
-    - 3.0.4
-    - 3.0.5
-    - 3.0.6
-    - 3.0.7
-    - 3.0.9
-    - 3.0.10
-    - 3.0.12
-    - 3.0.13
-    - 3.0.14
-    - 3.0.15
-    - 3.0.16
-    - 3.0.17
-    - 3.0.18
-    - 3.0.20
-    - 3.0.21
-    - 3.0.22
-    - 3.0.24
-    - 3.0.25
-    - 3.0.26
-    - 3.0.27
-    - 3.0.28
-    - 3.0.31
-    - 3.0.34
-    - 3.0.35
-    - 3.0.36
-    - 3.0.37
-    compatible:
-    - 3.0.36
-    - 3.0.37
-    recommended: 3.0.37
-    deprecated: []
-  dependencies:
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  resolvedDependencies:
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638799562419060000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: b5315083ab3861d21f6ab2ed0d9514daf04bf208
-    path: 
-  unityLifecycle:
-    version: 3.0.36
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"- fix RIDER-124592 Avoid affecting \"Strip Engine Code\"
-    while IL2CPP debug enabled"}'
-  assetStore:
-    productId: 
-  fingerprint: 4d374c7eb6db6907c7e6925e3086c3c73f926e13
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 3.0.36
-    minimumUnityVersion: 2019.4.6f1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.ide.visualstudio@2.0.23
   testable: 0
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -440,114 +137,12 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.ide.vscode@1.2.5
-  testable: 0
-  isDirectDependency: 1
-  version: 1.2.5
-  source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.ide.vscode@82e68656b7bd
-  assetPath: Packages/com.unity.ide.vscode
-  name: com.unity.ide.vscode
-  displayName: Visual Studio Code Editor
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: Code editor integration for supporting Visual Studio Code as code
-    editor for unity. Adds support for generating csproj files for intellisense purposes,
-    auto discovery of installations, etc.
-  errors: []
-  versions:
-    all:
-    - 1.0.2
-    - 1.0.3
-    - 1.0.7
-    - 1.1.0
-    - 1.1.2
-    - 1.1.3
-    - 1.1.4
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
-    - 1.2.5
-    compatible:
-    - 1.0.2
-    - 1.0.3
-    - 1.0.7
-    - 1.1.0
-    - 1.1.2
-    - 1.1.3
-    - 1.1.4
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
-    - 1.2.5
-    recommended: 
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637800255360000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/com.unity.ide.vscode.git
-    revision: b0740c80bfc2440527c317109f7c3d9100132722
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 1
-    deprecationMessage: Visual Studio Code package is not supported anymore. You
-      can continue to use it, but we won't provide any update anymore.
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-  fingerprint: 82e68656b7bdc5da8beb1fbaf1bb4ecf13456d51
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.0.2
-    minimumUnityVersion: 2019.2.0a12
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.multiplayer.center@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -640,7 +235,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.2.6
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.multiplayer.tools@8395f16a9a9a
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.multiplayer.tools@8395f16a9a9a
   assetPath: Packages/com.unity.multiplayer.tools
   name: com.unity.multiplayer.tools
   displayName: Multiplayer Tools
@@ -677,49 +272,49 @@ m_ResolvedPackages:
     recommended: 2.2.6
     deprecated: []
   dependencies:
-  - name: com.unity.profiling.core
-    version: 1.0.2
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.2.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
-  - name: com.unity.collections
-    version: 2.5.1
-  - name: com.unity.modules.uielements
-    version: 1.0.0
   - name: com.unity.burst
     version: 1.8.18
-  - name: com.unity.mathematics
-    version: 1.3.2
-  resolvedDependencies:
-  - name: com.unity.profiling.core
-    version: 1.0.2
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.2.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.collections
     version: 2.5.1
+  - name: com.unity.mathematics
+    version: 1.3.2
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  resolvedDependencies:
   - name: com.unity.burst
     version: 1.8.24
   - name: com.unity.mathematics
     version: 1.3.2
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
+  - name: com.unity.collections
+    version: 2.5.1
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.1.0
+  - name: com.unity.profiling.core
+    version: 1.0.2
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.hierarchycore
     version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
   keywords:
   - Multiplayer
   - Netcode
@@ -738,7 +333,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638895524257810000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.multiplayer.tools@2.2/manual/index.html
@@ -751,7 +346,7 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.2.6
     nextVersion: 
-    recommendedVersion: 
+    recommendedVersion: 2.2.0
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -775,12 +370,12 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.netcode.gameobjects@1.14.1
+- packageId: com.unity.netcode.gameobjects@2.5.0
   testable: 0
   isDirectDependency: 1
-  version: 1.14.1
+  version: 2.5.0
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.netcode.gameobjects@9e18ac3e8a23
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.netcode.gameobjects@851f28323821
   assetPath: Packages/com.unity.netcode.gameobjects
   name: com.unity.netcode.gameobjects
   displayName: Netcode for GameObjects
@@ -869,32 +464,32 @@ m_ResolvedPackages:
     - 2.4.3
     - 2.4.4
     - 2.5.0
-    recommended: 1.14.1
+    recommended: 2.5.0
     deprecated: []
   dependencies:
-  - name: com.unity.nuget.mono-cecil
-    version: 1.10.1
   - name: com.unity.transport
-    version: 1.4.0
-  resolvedDependencies:
+    version: 2.4.0
   - name: com.unity.nuget.mono-cecil
     version: 1.11.4
+  resolvedDependencies:
   - name: com.unity.transport
     version: 2.5.3
-  - name: com.unity.collections
-    version: 2.5.1
   - name: com.unity.burst
     version: 1.8.24
   - name: com.unity.mathematics
     version: 1.3.2
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
+  - name: com.unity.collections
+    version: 2.5.1
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.1.0
   keywords: []
@@ -911,20 +506,20 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638917899655470000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@1.14/manual/index.html
+  datePublishedTicks: 638912873594150000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.5/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.netcode.gameobjects.git
-    revision: 3e19af9f212e1e824f25d7cdf9b39a8ca5cd1471
+    revision: 4e4093d726be2b1a76df37b52ee4d270ee416925
     path: 
   unityLifecycle:
     version: 1.14.1
     nextVersion: 
-    recommendedVersion: 
+    recommendedVersion: 2.5.0
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -932,21 +527,61 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Fixed\n\n- Fixed issue with unnecessary internal
-    GC Allocations when using the `IReadOnlyList`  `NetworkManager.ConnectedClientsIds`
-    within a `foreach` statement by either replacing with a `for` loop or directly
-    referencing the `NetworkConnectionManager.ConnectedClientIds`. (#3601)\n- Fixed
-    issue with allocation to the heap in NetworkBehaviourUpdate when there is nothing
-    to be updated. (#3568)\n- Fixed issue where NetworkConfig.ConnectionData could
-    cause the ConnectionRequestMessage to exceed the transport''s MTU size and would
-    result in a buffer overflow error. (#3565)"}'
+  upmReserved: "{\"changelog\":\"### Added\\n\\n- Added `AsNativeArray()` read\u2011only
+    accessor to `NetworkList<T>` (#3567)\\n- Added serializer for `Pose` (#3546)\\n-
+    Added `AttachableBehaviour` helper component to provide an alternate approach
+    to parenting items without using the `NetworkObject` parenting. (#3518)\\n- Added
+    `AttachableNode` helper component that is used by `AttachableBehaviour` as the
+    target node for parenting. (#3518)\\n- Added `ComponentController` helper component
+    that can be used to synchronize the enabling and disabling of components and
+    can be used in conjunction with `AttachableBehaviour`. (#3518)\\n- Added `NetworkBehaviour.OnNetworkPreDespawn`
+    that is invoked before running through the despawn sequence for the `NetworkObject`
+    and all NetworkBehaviour children of the `NetworkObject` being despawned. (#3518)\\n-
+    Added methods `GetDefaultNetworkSettings` and `GetDefaultPipelineConfigurations`
+    to `UnityTransport`. These can be used to retrieve the default settings and pipeline
+    stages that are used by `UnityTransport`. This is useful when providing a custom
+    driver constructor through `UnityTransport.s_DriverConstructor`, since it allows
+    reusing or tuning the existing configuration instead of trying to recreate it.
+    This means a transport with a custom driver can now easily benefit from most
+    of the features of `UnityTransport`, like integration with the Network Simulator
+    and Network Profiler from the multiplayer tools package. (#3501)\\n- Added mappings
+    between `ClientId` and `TransportId`. (#3516)\\n- Added `NetworkPrefabInstanceHandlerWithData<T>`,
+    a variant of `INetworkPrefabInstanceHandler` that provides access to custom instantiation
+    data directly within the `Instantiate()` method. (#3497)\\n\\n### Fixed\\n\\n-
+    Removed allocation to the heap in NetworkBehaviourUpdate. (#3573)\\n- Fixed issue
+    where NetworkConfig.ConnectionData could cause the ConnectionRequestMessage to
+    exceed the transport's MTU size and would result in a buffer overflow error.
+    (#3564)\\n- Fixed regression issue in v2.x where `NetworkObject.GetNetworkBehaviourAtOrderIndex`
+    was converted from public to internal. (#3541)\\n- Fixed ensuring OnValueChanged
+    callback is still triggered on the authority when a collection changes and then
+    reverts to the previous value in the same frame. (#3539)\\n- Fixed synchronizing
+    the destroyGameObject parameter to clients for InScenePlaced network objects.
+    (#3514)\\n- Fixed distributed authority related issue where enabling the `NetworkObject.DestroyWithScene`
+    would cause errors when a destroying non-authority instances due to loading (single
+    mode) or unloading scene events. (#3500)\\n- Fixed an issue where `UnityTransport`
+    would not accept single words as valid hostnames (notably \\\"localhost\\\").
+    (#3591)\\n- Fixed issue where viewing a `NetworkBehaviour` with one or more `NetworkVariable`
+    fields could throw an exception if running a distributed authority network topology
+    with a local (DAHost) host and viewed on the host when the host is not the authority
+    of the associated `NetworkObject`. (#3578)\\n- Fixed issue when using a distributed
+    authority network topology and  viewing a `NetworkBehaviour` with one or more
+    `NetworkVariable` fields in the inspector view would not show editable fields.
+    (#3578)\\n- Fixed issue with unnecessary internal GC Allocations when using the
+    `IReadOnlyList`  `NetworkManager.ConnectedClientsIds` within a `foreach` statement
+    by either replacing with a `for` loop or directly referencing the `NetworkConnectionManager.ConnectedClientIds`.
+    (#3527)\\n\\n### Changed\\n\\n- Marked `UnityTransport.ConnectionAddressData.ServerEndPoint`
+    as obsolete. It can't work when using hostnames as the server address, and its
+    functionality can easily be replicated using `NetworkEndpoint.Parse`. (#3591)\\n-
+    Optimized `NetworkList<T>` indexer setter to skip operations when the new value
+    equals the existing value, improving performance by avoiding unnecessary list
+    events and network synchronization. (#3587)\"}"
   assetStore:
     productId: 
-  fingerprint: 9e18ac3e8a237cc0c5fd19c444c77d1afb5a93da
+  fingerprint: 851f28323821c8957873d692dc8472eae30dc8fc
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.14.1
-    minimumUnityVersion: 2021.3.0a1
+    minimumUnityVersion: 6000.0.0a1
   compliance:
     status: 0
     violation:
@@ -958,7 +593,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.render-pipelines.universal@ba18377e2205
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.render-pipelines.universal@ba18377e2205
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1084,7 +719,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1173,7 +808,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.9
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.timeline@6b9e48457ddb
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1282,18 +917,18 @@ m_ResolvedPackages:
     recommended: 1.8.9
     deprecated: []
   dependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
   - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-  - name: com.unity.modules.audio
-    version: 1.0.0
   - name: com.unity.modules.particlesystem
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.director
-    version: 1.0.0
   - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
@@ -1318,7 +953,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638900049118440000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.8/manual/index.html
@@ -1370,7 +1005,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.ugui@58f0e62c6dfa
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.ugui@58f0e62c6dfa
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1460,144 +1095,12 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.visualscripting@1.9.7
-  testable: 0
-  isDirectDependency: 1
-  version: 1.9.7
-  source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
-  assetPath: Packages/com.unity.visualscripting
-  name: com.unity.visualscripting
-  displayName: Visual Scripting
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: tool
-  description: 'Visual scripting is a workflow that uses visual, node-based graphs
-    to design behaviors rather than write lines of C# script.
-
-
-    Enabling artists,
-    designers and programmers alike, visual scripting can be used to design final
-    logic, quickly create prototypes, iterate on gameplay and create custom nodes
-    to help streamline collaboration.
-
-
-    Visual scripting is compatible with third-party
-    APIs, including most packages, assets and custom libraries.'
-  errors: []
-  versions:
-    all:
-    - 1.5.0
-    - 1.5.1-pre.3
-    - 1.5.1-pre.5
-    - 1.5.1
-    - 1.5.2
-    - 1.6.0-pre.3
-    - 1.6.0
-    - 1.6.1
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.5
-    - 1.7.6
-    - 1.7.7
-    - 1.7.8
-    - 1.8.0-pre.1
-    - 1.8.0
-    - 1.9.0
-    - 1.9.1
-    - 1.9.2
-    - 1.9.4
-    - 1.9.5
-    - 1.9.6
-    - 1.9.7
-    - 1.9.8
-    compatible:
-    - 1.9.7
-    - 1.9.8
-    recommended: 1.9.8
-    deprecated:
-    - 1.8.0-pre.1
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638835226812630000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 8292335505915a41ec7c5cc8e08ac436e24120a9
-    path: 
-  unityLifecycle:
-    version: 1.9.7
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Fixed a warning \"Unable to load Unity.Android.Gradle''s
-    referenced assembly NiceIO\" when scanning assemblies. [UVSB-2594](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2594)\n-
-    Fixed error when trying to load fuzzy finder on multi screen setup on Mac. [UVSB-2419](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2419)\n-
-    Fixed the `AOTSafeMode` project setting appearing in the Editor Preferences window.
-    It is now shown in the Project Settings tab for Visual Scripting. [UVSB-2590](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2590)\n-
-    Fixed possible crash on VisionOS. [UVSB-2565](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2565)\n\n###
-    Changed\n- The `AOTSafeMode` project setting has been marked as not visible,
-    it will no longer be included when calling `ConfigurationPanel.GetSearchKeywords`.
-    [UVSB-2590](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2590)"}'
-  assetStore:
-    productId: 
-  fingerprint: 6279e2b7c4858e56cca7f367cd38c49ef66778c9
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.9.7
-    minimumUnityVersion: 2021.3.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.modules.accessibility@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.accessibility
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -1673,7 +1176,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1749,7 +1252,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1824,7 +1327,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1900,7 +1403,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1976,7 +1479,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2052,7 +1555,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2132,7 +1635,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2216,7 +1719,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2292,7 +1795,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2368,7 +1871,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2444,7 +1947,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2520,7 +2023,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2596,7 +2099,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2672,7 +2175,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2752,7 +2255,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2828,7 +2331,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2912,7 +2415,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2991,7 +2494,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -3067,7 +2570,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3159,7 +2662,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3235,7 +2738,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3318,7 +2821,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3394,7 +2897,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3478,7 +2981,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3562,7 +3065,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3646,7 +3149,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3746,7 +3249,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3826,7 +3329,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3914,7 +3417,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -4004,7 +3507,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -4080,7 +3583,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -4168,7 +3671,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -4248,7 +3751,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\Xyina\Unity Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.hierarchycore
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -4324,7 +3827,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4403,7 +3906,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.render-pipelines.core@d55f35a46257
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.render-pipelines.core@d55f35a46257
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -4528,7 +4031,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.shadergraph@bbc2145cfdb2
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.shadergraph@bbc2145cfdb2
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4643,7 +4146,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -4745,12 +4248,169 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.transport@2.5.3
+  testable: 0
+  isDirectDependency: 0
+  version: 2.5.3
+  source: 1
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.transport@b61461f89a69
+  assetPath: Packages/com.unity.transport
+  name: com.unity.transport
+  displayName: Unity Transport
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Unity network transport layer - the low-level interface for connecting
+    and sending data through a network
+  errors: []
+  versions:
+    all:
+    - 0.2.0-preview.4
+    - 0.2.1-preview.1
+    - 0.2.2-preview.2
+    - 0.2.3-preview.0
+    - 0.2.4-preview.0
+    - 0.3.0-preview.6
+    - 0.3.1-preview.4
+    - 0.4.0-preview.3
+    - 0.4.1-preview.1
+    - 0.5.0-preview.5
+    - 0.6.0-preview.7
+    - 0.8.0-preview.8
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0-pre.10
+    - 1.0.0-pre.12
+    - 1.0.0-pre.13
+    - 1.0.0-pre.14
+    - 1.0.0-pre.15
+    - 1.0.0-pre.16
+    - 1.0.0
+    - 1.1.0
+    - 1.2.0
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.4.0
+    - 1.4.1
+    - 1.5.0
+    - 2.0.0-exp.6
+    - 2.0.0-exp.7
+    - 2.0.0-exp.8
+    - 2.0.0-pre.2
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0-pre.7
+    - 2.0.0-pre.8
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.0
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    compatible:
+    - 2.5.3
+    recommended: 2.5.3
+    deprecated: []
+  dependencies:
+  - name: com.unity.burst
+    version: 1.8.12
+  - name: com.unity.collections
+    version: 2.2.1
+  - name: com.unity.mathematics
+    version: 1.3.1
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.8.24
+  - name: com.unity.mathematics
+    version: 1.3.2
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 2.5.1
+  - name: com.unity.test-framework
+    version: 1.5.1
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 3.1.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638901055476520000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.transport@2.5/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.transport.git
+    revision: 7d717d279fe4220a52e3f1f9228505392c6dfdf5
+    path: 
+  unityLifecycle:
+    version: 2.5.3
+    nextVersion: 
+    recommendedVersion: 2.5.0
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixes\n* Fixed an issue where port 0 would be used
+    when connecting over secure WebSockets (WSS) if using the version of the `NetworkDriver.Connect`
+    method that accepts hostnames."}'
+  assetStore:
+    productId: 
+  fingerprint: b61461f89a69ee0b44a8bf8fd60c700e2b40ec9c
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.5.3
+    minimumUnityVersion: 2022.3.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.nuget.mono-cecil@1.11.4
   testable: 0
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -4836,297 +4496,179 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.transport@2.5.3
+- packageId: com.unity.burst@1.8.24
   testable: 0
   isDirectDependency: 0
-  version: 2.5.3
+  version: 1.8.24
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.transport@b61461f89a69
-  assetPath: Packages/com.unity.transport
-  name: com.unity.transport
-  displayName: Unity Transport
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.burst@f7a407abf4d5
+  assetPath: Packages/com.unity.burst
+  name: com.unity.burst
+  displayName: Burst
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: Unity network transport layer - the low-level interface for connecting
-    and sending data through a network
+  description: Burst is a compiler that translates from IL/.NET bytecode to highly
+    optimized native code using LLVM.
   errors: []
   versions:
     all:
-    - 0.2.0-preview.4
-    - 0.2.1-preview.1
-    - 0.2.2-preview.2
-    - 0.2.3-preview.0
-    - 0.2.4-preview.0
-    - 0.3.0-preview.6
-    - 0.3.1-preview.4
-    - 0.4.0-preview.3
-    - 0.4.1-preview.1
-    - 0.5.0-preview.5
-    - 0.6.0-preview.7
-    - 0.8.0-preview.8
-    - 1.0.0-pre.2
-    - 1.0.0-pre.3
-    - 1.0.0-pre.4
-    - 1.0.0-pre.5
-    - 1.0.0-pre.6
-    - 1.0.0-pre.7
-    - 1.0.0-pre.8
-    - 1.0.0-pre.9
-    - 1.0.0-pre.10
-    - 1.0.0-pre.12
-    - 1.0.0-pre.13
-    - 1.0.0-pre.14
-    - 1.0.0-pre.15
-    - 1.0.0-pre.16
-    - 1.0.0
-    - 1.1.0
+    - 0.2.4-preview.5
+    - 0.2.4-preview.7
+    - 0.2.4-preview.11
+    - 0.2.4-preview.12
+    - 0.2.4-preview.13
+    - 0.2.4-preview.14
+    - 0.2.4-preview.15
+    - 0.2.4-preview.16
+    - 0.2.4-preview.17
+    - 0.2.4-preview.18
+    - 0.2.4-preview.19
+    - 0.2.4-preview.20
+    - 0.2.4-preview.21
+    - 0.2.4-preview.22
+    - 0.2.4-preview.23
+    - 0.2.4-preview.24
+    - 0.2.4-preview.25
+    - 0.2.4-preview.30
+    - 0.2.4-preview.31
+    - 0.2.4-preview.33
+    - 0.2.4-preview.34
+    - 0.2.4-preview.37
+    - 0.2.4-preview.41
+    - 0.2.4-preview.45
+    - 0.2.4-preview.48
+    - 0.2.4-preview.50
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.5
+    - 1.2.0-preview.6
+    - 1.2.0-preview.8
+    - 1.2.0-preview.9
+    - 1.2.0-preview.10
+    - 1.2.0-preview.11
+    - 1.2.0-preview.12
     - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.3.0-preview.1
+    - 1.3.0-preview.2
+    - 1.3.0-preview.3
+    - 1.3.0-preview.4
+    - 1.3.0-preview.5
+    - 1.3.0-preview.6
+    - 1.3.0-preview.7
+    - 1.3.0-preview.8
+    - 1.3.0-preview.9
+    - 1.3.0-preview.10
+    - 1.3.0-preview.11
+    - 1.3.0-preview.12
+    - 1.3.0-preview.13
     - 1.3.0
     - 1.3.1
     - 1.3.2
     - 1.3.3
     - 1.3.4
-    - 1.4.0
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.0-pre.1
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0-preview.3
+    - 1.4.0-preview.4
+    - 1.4.0-preview.5
+    - 1.4.1-pre.1
+    - 1.4.1-pre.2
     - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4-preview.1
+    - 1.4.4-preview.2
+    - 1.4.4
+    - 1.4.5
+    - 1.4.6
+    - 1.4.7
+    - 1.4.8
+    - 1.4.9
+    - 1.4.11
+    - 1.5.0-pre.3
+    - 1.5.0-pre.4
+    - 1.5.0-pre.5
     - 1.5.0
-    - 2.0.0-exp.6
-    - 2.0.0-exp.7
-    - 2.0.0-exp.8
-    - 2.0.0-pre.2
-    - 2.0.0-pre.3
-    - 2.0.0-pre.5
-    - 2.0.0-pre.6
-    - 2.0.0-pre.7
-    - 2.0.0-pre.8
-    - 2.0.1
-    - 2.0.2
-    - 2.1.0
-    - 2.2.1
-    - 2.3.0
-    - 2.4.0
-    - 2.5.0
-    - 2.5.1
-    - 2.5.2
-    - 2.5.3
+    - 1.5.1
+    - 1.5.2
+    - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6-preview.1
+    - 1.5.6
+    - 1.6.0-pre.2
+    - 1.6.0-pre.3
+    - 1.6.0-pre.4
+    - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
+    - 1.6.6
+    - 1.7.0-pre.1
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.4
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.8.3
+    - 1.8.4
+    - 1.8.7
+    - 1.8.8
+    - 1.8.9
+    - 1.8.10
+    - 1.8.11
+    - 1.8.12
+    - 1.8.13
+    - 1.8.14
+    - 1.8.15
+    - 1.8.16
+    - 1.8.17
+    - 1.8.18
+    - 1.8.19
+    - 1.8.20
+    - 1.8.21
+    - 1.8.22
+    - 1.8.23
+    - 1.8.24
     compatible:
-    - 2.5.3
-    recommended: 2.5.3
+    - 1.8.24
+    recommended: 1.8.24
     deprecated: []
   dependencies:
-  - name: com.unity.collections
-    version: 2.2.1
-  - name: com.unity.burst
-    version: 1.8.12
   - name: com.unity.mathematics
-    version: 1.3.1
+    version: 1.2.1
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.collections
-    version: 2.5.1
-  - name: com.unity.burst
-    version: 1.8.24
   - name: com.unity.mathematics
     version: 1.3.2
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638901055476520000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.transport@2.5/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.transport.git
-    revision: 7d717d279fe4220a52e3f1f9228505392c6dfdf5
-    path: 
-  unityLifecycle:
-    version: 2.5.3
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixes\n* Fixed an issue where port 0 would be used
-    when connecting over secure WebSockets (WSS) if using the version of the `NetworkDriver.Connect`
-    method that accepts hostnames."}'
-  assetStore:
-    productId: 
-  fingerprint: b61461f89a69ee0b44a8bf8fd60c700e2b40ec9c
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 2.5.3
-    minimumUnityVersion: 2022.3.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.profiling.core@1.0.2
-  testable: 0
-  isDirectDependency: 0
-  version: 1.0.2
-  source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.profiling.core@aac7b93912bc
-  assetPath: Packages/com.unity.profiling.core
-  name: com.unity.profiling.core
-  displayName: Unity Profiling Core API
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: The Unity Profiling Core package provides an API for code instrumentation
-    markup, and for profiling statistic collection.
-  errors: []
-  versions:
-    all:
-    - 0.1.0-preview.1
-    - 0.2.0-preview.1
-    - 0.2.1-preview.1
-    - 1.0.0-pre.1
-    - 1.0.0
-    - 1.0.2
-    compatible:
-    - 1.0.2
-    recommended: 1.0.2
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - profiler
-  - profiling
-  - api
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637828752310000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/profiler.git
-    revision: 2189ba14439d76a4083f59fae87163b4bdfd49c2
-    path: 
-  unityLifecycle:
-    version: 1.0.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-  fingerprint: aac7b93912bc5df5fe06b04ff1b758493cdc2346
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.0.2
-    minimumUnityVersion: 2020.1.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.nuget.newtonsoft-json@3.2.1
-  testable: 0
-  isDirectDependency: 0
-  version: 3.2.1
-  source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
-  assetPath: Packages/com.unity.nuget.newtonsoft-json
-  name: com.unity.nuget.newtonsoft-json
-  displayName: Newtonsoft Json
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: library
-  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 13.0.2.
-
-
-    This package is used for advanced json serialization
-    and deserialization. Most Unity users will be better suited using the existing
-    json tools built into Unity.
-
-    To avoid assembly clashes, please use this
-    package if you intend to use Newtonsoft Json.'
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.1-preview.1
-    - 1.1.2
-    - 2.0.0-preview
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0
-    - 2.0.1-preview.1
-    - 2.0.2
-    - 3.0.1
-    - 3.0.2
-    - 3.1.0
-    - 3.2.0
-    - 3.2.1
-    compatible:
-    - 3.2.1
-    recommended: 3.2.1
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
   keywords: []
   registry:
     id: main
@@ -5143,16 +4685,16 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638186318800000000
-  documentationUrl: 
+  datePublishedTicks: 638899061085800000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: d8e49aef8979bef617144382052ec2f479645eaf
+    url: https://github.cds.internal.unity3d.com/unity/burst.git
+    revision: a51d00bdd6ede2678af40037e722269d09e4d3aa
     path: 
   unityLifecycle:
-    version: 3.2.1
+    version: 1.8.24
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -5162,15 +4704,24 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
-    2.0."}'
+  upmReserved: '{"changelog":"### Added\n- Linux/ARM64 support\n- Added Floating
+    Point Mode option to Burst AOT Settings.\n- Added a warning that using processor
+    intrinsics in methods with `FloatMode = Deterministic` requires bit-level equivalent
+    functionality on other target architectures to ensure deterministic results.\n\n###
+    Fixed\n- Fixed a crash that could occur in Burst when Unity is started with the
+    `-disableManagedDebugger` command line argument\n- Fixed an issue where a static
+    field of a large value type could cause an `InterpreterOutOfMemoryException`
+    to be thrown.\n- Fixed Burst Inspector UI elements overlapping and losing interactability
+    when the window size is reduced.\n\n### Changed\n- Optimized zero-initialization
+    of local variables; where possible, zero-initialization is now done at first
+    use rather than in the function prolog"}'
   assetStore:
     productId: 
-  fingerprint: 74deb55db2a0c29ddfda576608bcb86abbd13ee6
+  fingerprint: f7a407abf4d5abf19ce630824dcde261e02ed97e
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 3.2.1
-    minimumUnityVersion: 2018.4.0a1
+    minimumPackageVersion: 1.8.24
+    minimumUnityVersion: 2021.3.0a1
   compliance:
     status: 0
     violation:
@@ -5182,7 +4733,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5365,244 +4916,12 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.burst@1.8.24
-  testable: 0
-  isDirectDependency: 0
-  version: 1.8.24
-  source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.burst@f7a407abf4d5
-  assetPath: Packages/com.unity.burst
-  name: com.unity.burst
-  displayName: Burst
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Burst is a compiler that translates from IL/.NET bytecode to highly
-    optimized native code using LLVM.
-  errors: []
-  versions:
-    all:
-    - 0.2.4-preview.5
-    - 0.2.4-preview.7
-    - 0.2.4-preview.11
-    - 0.2.4-preview.12
-    - 0.2.4-preview.13
-    - 0.2.4-preview.14
-    - 0.2.4-preview.15
-    - 0.2.4-preview.16
-    - 0.2.4-preview.17
-    - 0.2.4-preview.18
-    - 0.2.4-preview.19
-    - 0.2.4-preview.20
-    - 0.2.4-preview.21
-    - 0.2.4-preview.22
-    - 0.2.4-preview.23
-    - 0.2.4-preview.24
-    - 0.2.4-preview.25
-    - 0.2.4-preview.30
-    - 0.2.4-preview.31
-    - 0.2.4-preview.33
-    - 0.2.4-preview.34
-    - 0.2.4-preview.37
-    - 0.2.4-preview.41
-    - 0.2.4-preview.45
-    - 0.2.4-preview.48
-    - 0.2.4-preview.50
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.0-preview.4
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3-preview.3
-    - 1.2.0-preview.1
-    - 1.2.0-preview.5
-    - 1.2.0-preview.6
-    - 1.2.0-preview.8
-    - 1.2.0-preview.9
-    - 1.2.0-preview.10
-    - 1.2.0-preview.11
-    - 1.2.0-preview.12
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.3.0-preview.1
-    - 1.3.0-preview.2
-    - 1.3.0-preview.3
-    - 1.3.0-preview.4
-    - 1.3.0-preview.5
-    - 1.3.0-preview.6
-    - 1.3.0-preview.7
-    - 1.3.0-preview.8
-    - 1.3.0-preview.9
-    - 1.3.0-preview.10
-    - 1.3.0-preview.11
-    - 1.3.0-preview.12
-    - 1.3.0-preview.13
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.9
-    - 1.4.0-pre.1
-    - 1.4.0-preview.1
-    - 1.4.0-preview.2
-    - 1.4.0-preview.3
-    - 1.4.0-preview.4
-    - 1.4.0-preview.5
-    - 1.4.1-pre.1
-    - 1.4.1-pre.2
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4-preview.1
-    - 1.4.4-preview.2
-    - 1.4.4
-    - 1.4.5
-    - 1.4.6
-    - 1.4.7
-    - 1.4.8
-    - 1.4.9
-    - 1.4.11
-    - 1.5.0-pre.3
-    - 1.5.0-pre.4
-    - 1.5.0-pre.5
-    - 1.5.0
-    - 1.5.1
-    - 1.5.2
-    - 1.5.3
-    - 1.5.4
-    - 1.5.5
-    - 1.5.6-preview.1
-    - 1.5.6
-    - 1.6.0-pre.2
-    - 1.6.0-pre.3
-    - 1.6.0-pre.4
-    - 1.6.0
-    - 1.6.1
-    - 1.6.2
-    - 1.6.3
-    - 1.6.4
-    - 1.6.5
-    - 1.6.6
-    - 1.7.0-pre.1
-    - 1.7.0
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.4
-    - 1.8.0-pre.1
-    - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.8.3
-    - 1.8.4
-    - 1.8.7
-    - 1.8.8
-    - 1.8.9
-    - 1.8.10
-    - 1.8.11
-    - 1.8.12
-    - 1.8.13
-    - 1.8.14
-    - 1.8.15
-    - 1.8.16
-    - 1.8.17
-    - 1.8.18
-    - 1.8.19
-    - 1.8.20
-    - 1.8.21
-    - 1.8.22
-    - 1.8.23
-    - 1.8.24
-    compatible:
-    - 1.8.24
-    recommended: 1.8.24
-    deprecated: []
-  dependencies:
-  - name: com.unity.mathematics
-    version: 1.2.1
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638899061085800000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/burst.git
-    revision: a51d00bdd6ede2678af40037e722269d09e4d3aa
-    path: 
-  unityLifecycle:
-    version: 1.8.24
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Added\n- Linux/ARM64 support\n- Added Floating
-    Point Mode option to Burst AOT Settings.\n- Added a warning that using processor
-    intrinsics in methods with `FloatMode = Deterministic` requires bit-level equivalent
-    functionality on other target architectures to ensure deterministic results.\n\n###
-    Fixed\n- Fixed a crash that could occur in Burst when Unity is started with the
-    `-disableManagedDebugger` command line argument\n- Fixed an issue where a static
-    field of a large value type could cause an `InterpreterOutOfMemoryException`
-    to be thrown.\n- Fixed Burst Inspector UI elements overlapping and losing interactability
-    when the window size is reduced.\n\n### Changed\n- Optimized zero-initialization
-    of local variables; where possible, zero-initialization is now done at first
-    use rather than in the function prolog"}'
-  assetStore:
-    productId: 
-  fingerprint: f7a407abf4d5abf19ce630824dcde261e02ed97e
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.8.24
-    minimumUnityVersion: 2021.3.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.mathematics@1.3.2
   testable: 0
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -5695,12 +5014,196 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.profiling.core@1.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.2
+  source: 1
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.profiling.core@aac7b93912bc
+  assetPath: Packages/com.unity.profiling.core
+  name: com.unity.profiling.core
+  displayName: Unity Profiling Core API
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: The Unity Profiling Core package provides an API for code instrumentation
+    markup, and for profiling statistic collection.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 0.2.0-preview.1
+    - 0.2.1-preview.1
+    - 1.0.0-pre.1
+    - 1.0.0
+    - 1.0.2
+    compatible:
+    - 1.0.2
+    recommended: 1.0.2
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - profiler
+  - profiling
+  - api
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637828752310000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/profiler.git
+    revision: 2189ba14439d76a4083f59fae87163b4bdfd49c2
+    path: 
+  unityLifecycle:
+    version: 1.0.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+  fingerprint: aac7b93912bc5df5fe06b04ff1b758493cdc2346
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.0.2
+    minimumUnityVersion: 2020.1.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.nuget.newtonsoft-json@3.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 3.2.1
+  source: 1
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
+    - 3.0.1
+    - 3.0.2
+    - 3.1.0
+    - 3.2.0
+    - 3.2.1
+    compatible:
+    - 3.2.1
+    recommended: 3.2.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638186318800000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
+    path: 
+  unityLifecycle:
+    version: 3.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
+    2.0."}'
+  assetStore:
+    productId: 
+  fingerprint: 74deb55db2a0c29ddfda576608bcb86abbd13ee6
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 3.2.1
+    minimumUnityVersion: 2018.4.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.searcher@4.9.3
   testable: 0
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5796,7 +5299,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -5901,7 +5404,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: D:\Xyina\UnityProj\NetWorkGameTest\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: C:\Users\Redst\Documents\GitHub\NetWorkGameTest\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
@@ -6002,7 +5505,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638792643567670000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework.performance@3.1/manual/index.html

@@ -1,32 +1,32 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.57f1 (b7b9860b7bbd) revision 12040582'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'ru' Physical Memory: 32609 MB
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'ru' Physical Memory: 16232 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2025-09-12T13:59:11Z
+Date: 2025-09-12T16:31:23Z
 
 COMMAND LINE ARGUMENTS:
-D:\Xyina\Unity Editor\6000.0.57f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\6000.0.57f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Xyina/UnityProj/NetWorkGameTest
+C:/Users/Redst/Documents/GitHub/NetWorkGameTest
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64094
+65429
 -job-worker-count
-9
+5
 -background-job-worker-count
 8
 -gc-helper-count
 1
 -name
 AssetImport
-Successfully changed project path to: D:/Xyina/UnityProj/NetWorkGameTest
-D:/Xyina/UnityProj/NetWorkGameTest
+Successfully changed project path to: C:/Users/Redst/Documents/GitHub/NetWorkGameTest
+C:/Users/Redst/Documents/GitHub/NetWorkGameTest
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -62,15 +62,15 @@ D:/Xyina/UnityProj/NetWorkGameTest
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [31496]  Target information:
+Player connection [7000]  Target information:
 
-Player connection [31496]  * "[IP] 26.213.130.191 [Port] 0 [Flags] 2 [Guid] 2768025136 [EditorId] 2768025136 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-18URB1C) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [7000]  * "[IP] 26.226.111.173 [Port] 0 [Flags] 2 [Guid] 2468144068 [EditorId] 2468144068 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PP3CGPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [31496]  * "[IP] 192.168.1.121 [Port] 0 [Flags] 2 [Guid] 2768025136 [EditorId] 2768025136 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-18URB1C) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [7000]  * "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 2468144068 [EditorId] 2468144068 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PP3CGPV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [31496] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [31496] Host joined alternative multi-casting on [225.0.0.222:34997]...
-JobSystem: Creating JobQueue using job-worker-count value 9
+Player connection [7000] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [7000] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -81,60 +81,62 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 1.80 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.57f1 (b7b9860b7bbd)
-[Subsystems] Discovering subsystems at path D:/Xyina/Unity Editor/6000.0.57f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Xyina/UnityProj/NetWorkGameTest/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.57f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Redst/Documents/GitHub/NetWorkGameTest/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Renderer: NVIDIA GeForce GT 710 (ID=0x128b)
     Vendor:   NVIDIA
-    VRAM:     1999 MB
-    Driver:   32.0.15.6094
+    VRAM:     984 MB
+    Driver:   27.21.14.5671
 Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
 Initialize mono
-Mono path[0] = 'D:/Xyina/Unity Editor/6000.0.57f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Xyina/Unity Editor/6000.0.57f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Xyina/Unity Editor/6000.0.57f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.57f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.57f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.57f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Xyina/Unity Editor/6000.0.57f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002415 seconds.
-- Loaded All Assemblies, in  0.427 seconds
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.57f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.57f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.004582 seconds.
+- Loaded All Assemblies, in  0.515 seconds
+Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.357 seconds
-Domain Reload Profiling: 783ms
-	BeginReloadAssembly (166ms)
+- Finished resetting the current domain, in  0.471 seconds
+Domain Reload Profiling: 983ms
+	BeginReloadAssembly (172ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (0ms)
-	RebuildCommonClasses (38ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (47ms)
-	LoadAllAssembliesAndSetupDomain (162ms)
-		LoadAssemblies (166ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (203ms)
+		LoadAssemblies (169ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (159ms)
-			TypeCache.Refresh (157ms)
-				TypeCache.ScanAssembly (143ms)
+		AnalyzeDomain (199ms)
+			TypeCache.Refresh (198ms)
+				TypeCache.ScanAssembly (182ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (357ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (472ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (308ms)
+		SetupLoadedEditorAssemblies (415ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (24ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (61ms)
-			ProcessInitializeOnLoadAttributes (164ms)
-			ProcessInitializeOnLoadMethodAttributes (55ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (91ms)
+			ProcessInitializeOnLoadAttributes (226ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -144,8 +146,9 @@ Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  0.826 seconds
-Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.954 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
@@ -166,51 +169,51 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 (Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
 
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.741 seconds
-Domain Reload Profiling: 1566ms
-	BeginReloadAssembly (213ms)
+- Finished resetting the current domain, in  0.948 seconds
+Domain Reload Profiling: 1897ms
+	BeginReloadAssembly (208ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (7ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (32ms)
-	RebuildCommonClasses (37ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (39ms)
-	LoadAllAssembliesAndSetupDomain (522ms)
-		LoadAssemblies (379ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (638ms)
+		LoadAssemblies (435ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (275ms)
-			TypeCache.Refresh (197ms)
-				TypeCache.ScanAssembly (176ms)
-			BuildScriptInfoCaches (64ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (742ms)
+		AnalyzeDomain (317ms)
+			TypeCache.Refresh (236ms)
+				TypeCache.ScanAssembly (212ms)
+			BuildScriptInfoCaches (65ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (948ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (534ms)
+		SetupLoadedEditorAssemblies (705ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2ms)
-			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (121ms)
-			ProcessInitializeOnLoadAttributes (339ms)
-			ProcessInitializeOnLoadMethodAttributes (64ms)
-			AfterProcessingInitializeOnLoad (2ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (189ms)
+			ProcessInitializeOnLoadAttributes (412ms)
+			ProcessInitializeOnLoadMethodAttributes (87ms)
+			AfterProcessingInitializeOnLoad (7ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
 Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6533 unused Assets / (4.3 MB). Loaded Objects now: 7212.
-Memory consumption went from 133.9 MB to 129.5 MB.
-Total: 49.363600 ms (FindLiveObjects: 0.756500 ms CreateObjectMapping: 0.433100 ms MarkObjects: 46.036900 ms  DeleteObjects: 2.135300 ms)
+Unloading 6499 unused Assets / (2.1 MB). Loaded Objects now: 7178.
+Memory consumption went from 133.4 MB to 131.3 MB.
+Total: 13.297200 ms (FindLiveObjects: 0.943700 ms CreateObjectMapping: 1.463700 ms MarkObjects: 7.813300 ms  DeleteObjects: 3.074800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1126377.731503 seconds.
+  Time since last request: 256977.365114 seconds.
   path: Assets/axeNew 1.prefab
   artifactKey: Guid(c34f7d59f7458634ab60a42a8eabed45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/axeNew 1.prefab using Guid(c34f7d59f7458634ab60a42a8eabed45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)CommandBuffer: temporary render texture  not found while executing  (Copy source)
@@ -251,18 +254,791 @@ UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityE
 
 [./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/UniversalRenderPipeline.cs line 885]
 
- -> (artifact id: '4fb5263230b6d639cdd3577c2a36e8d3') in 0.6749822 seconds
+ -> (artifact id: '39f56a0e2c6426b7330f3fbfc1296491') in 0.5151523 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/chair.fbx
-  artifactKey: Guid(3240bf1c7d17dfb4d91692f244d6fc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/chair.fbx using Guid(3240bf1c7d17dfb4d91692f244d6fc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f0e1935c0d79d7e1aad503f928fec8f') in 0.2433599 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+  Time since last request: 0.000031 seconds.
+  path: Assets/table.fbx
+  artifactKey: Guid(519c8efe7a0b58040a55a892fdc89d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/table.fbx using Guid(519c8efe7a0b58040a55a892fdc89d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0311cf470d70951993bcb2792bd0ff9') in 0.0859012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.793 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.739 seconds
+Domain Reload Profiling: 1531ms
+	BeginReloadAssembly (246ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (459ms)
+		LoadAssemblies (373ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (199ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (172ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (740ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (564ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (147ms)
+			ProcessInitializeOnLoadAttributes (315ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6456 unused Assets / (4.8 MB). Loaded Objects now: 7217.
+Memory consumption went from 150.6 MB to 145.7 MB.
+Total: 12.043600 ms (FindLiveObjects: 0.827500 ms CreateObjectMapping: 1.234700 ms MarkObjects: 6.324000 ms  DeleteObjects: 3.656600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.754 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.595 seconds
+Domain Reload Profiling: 1348ms
+	BeginReloadAssembly (212ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (453ms)
+		LoadAssemblies (326ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (225ms)
+			TypeCache.Refresh (120ms)
+				TypeCache.ScanAssembly (107ms)
+			BuildScriptInfoCaches (88ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (596ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (440ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (145ms)
+			ProcessInitializeOnLoadAttributes (197ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5999 unused Assets / (4.5 MB). Loaded Objects now: 6771.
+Memory consumption went from 147.5 MB to 143.0 MB.
+Total: 12.424000 ms (FindLiveObjects: 0.879700 ms CreateObjectMapping: 1.259300 ms MarkObjects: 6.749500 ms  DeleteObjects: 3.534300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.716 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.575 seconds
+Domain Reload Profiling: 1290ms
+	BeginReloadAssembly (206ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (409ms)
+		LoadAssemblies (336ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (173ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (148ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (576ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (414ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (143ms)
+			ProcessInitializeOnLoadAttributes (187ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (4.7 MB). Loaded Objects now: 6765.
+Memory consumption went from 146.7 MB to 142.0 MB.
+Total: 10.797400 ms (FindLiveObjects: 0.777600 ms CreateObjectMapping: 1.191800 ms MarkObjects: 5.571900 ms  DeleteObjects: 3.255200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4402 unused Assets / (3.4 MB). Loaded Objects now: 5184.
+Memory consumption went from 142.6 MB to 139.2 MB.
+Total: 10.430200 ms (FindLiveObjects: 0.676200 ms CreateObjectMapping: 0.835600 ms MarkObjects: 6.802300 ms  DeleteObjects: 2.114800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4426 unused Assets / (3.6 MB). Loaded Objects now: 5208.
+Memory consumption went from 142.3 MB to 138.7 MB.
+Total: 9.065800 ms (FindLiveObjects: 0.598100 ms CreateObjectMapping: 0.713300 ms MarkObjects: 5.178500 ms  DeleteObjects: 2.574600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 314.333506 seconds.
+  path: Assets/Materials/29bb49d7fa88ba1722fa1b7604bf1406.jpg
+  artifactKey: Guid(bb1b097bf5ba53944825cf47f853bcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/29bb49d7fa88ba1722fa1b7604bf1406.jpg using Guid(bb1b097bf5ba53944825cf47f853bcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52513b0eb7e9b09ffba51e02032e12e5') in 0.1367961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Materials/stena.mat
+  artifactKey: Guid(5601d405052d9c6478fc1fdbf1ac0a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/stena.mat using Guid(5601d405052d9c6478fc1fdbf1ac0a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8be92542c8f32a3c5ac09bb1726af36') in 0.355548 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Materials/image.mat
+  artifactKey: Guid(5740aa02ffff85b448bcb73eede09783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/image.mat using Guid(5740aa02ffff85b448bcb73eede09783) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b0f59c4fe5c8489bfcb2e684acd28e8') in 0.0382764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Materials/metal_plate_metal_1k.jpg
+  artifactKey: Guid(12b077e59f83a9e4c967559e78db0d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/metal_plate_metal_1k.jpg using Guid(12b077e59f83a9e4c967559e78db0d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70a19a7caf8a6a0ebe85dd266624d1fd') in 0.0916049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Materials/metal_plate_disp_1k.png
+  artifactKey: Guid(84f3d9a7f7f8ed546ad42158f7e2c39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/metal_plate_disp_1k.png using Guid(84f3d9a7f7f8ed546ad42158f7e2c39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2160322c157388a0424702c7a693b73') in 0.0403831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.350964 seconds.
+  path: Assets/Scripts/ItemClass.cs
+  artifactKey: Guid(fc2751081c1b3ae4993c146abe6bb098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ItemClass.cs using Guid(fc2751081c1b3ae4993c146abe6bb098) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46126e772e432660522c592fa4470c06') in 0.0006437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4428 unused Assets / (3.6 MB). Loaded Objects now: 5349.
+Memory consumption went from 142.9 MB to 139.3 MB.
+Total: 9.063000 ms (FindLiveObjects: 0.546800 ms CreateObjectMapping: 0.624000 ms MarkObjects: 6.033300 ms  DeleteObjects: 1.857900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.696 seconds
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.546 seconds
+Domain Reload Profiling: 1240ms
+	BeginReloadAssembly (222ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (390ms)
+		LoadAssemblies (313ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (88ms)
+				TypeCache.ScanAssembly (77ms)
+			BuildScriptInfoCaches (72ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (547ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (387ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (194ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4428 unused Assets / (3.6 MB). Loaded Objects now: 5233.
+Memory consumption went from 140.5 MB to 136.9 MB.
+Total: 6.229900 ms (FindLiveObjects: 0.516300 ms CreateObjectMapping: 0.562000 ms MarkObjects: 3.564800 ms  DeleteObjects: 1.586300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.620 seconds
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.544 seconds
+Domain Reload Profiling: 1162ms
+	BeginReloadAssembly (199ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (338ms)
+		LoadAssemblies (307ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (127ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (107ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (544ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (386ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (115ms)
+			ProcessInitializeOnLoadAttributes (185ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4428 unused Assets / (3.8 MB). Loaded Objects now: 5235.
+Memory consumption went from 140.1 MB to 136.3 MB.
+Total: 6.778200 ms (FindLiveObjects: 0.591300 ms CreateObjectMapping: 0.613500 ms MarkObjects: 3.756300 ms  DeleteObjects: 1.816400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.642 seconds
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/com.unity.netcode.editor.codegen.asmdef)
+Assembly with name 'Unity.Netcode.Editor.CodeGen' already exists (Packages/com.unity.netcode.gameobjects/Editor/CodeGen/Unity.Netcode.Editor.CodeGen.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/com.unity.netcode.editortests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Editor/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Editor/Unity.Netcode.Editor.Tests.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/com.unity.netcode.editor.asmdef)
+Assembly with name 'Unity.Netcode.Editor' already exists (Packages/com.unity.netcode.gameobjects/Editor/Unity.Netcode.Editor.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/Unity.Netcode.Runtime.asmdef)
+Assembly with name 'Unity.Netcode.Runtime' already exists (Packages/com.unity.netcode.gameobjects/Runtime/com.unity.netcode.runtime.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/Unity.Netcode.Runtime.Tests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Tests/Runtime/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Tests/Runtime/com.unity.netcode.runtimetests.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/Unity.Netcode.PackageChecker.Editor.asmdef)
+Folder 'Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/' contains multiple assembly definition files (Packages/com.unity.netcode.gameobjects/Editor/PackageChecker/com.unity.netcode.editor.packagechecker.asmdef)
+ArgumentException: An item with the same key has already been added. Key: 072b82e2b7c1dcf439827d3fbc4f52a1
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <152439c387994a8da523328132967f8d>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <152439c387994a8da523328132967f8d>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (TSource[] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00029] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00051] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Func`2[T,TResult] elementSelector) [0x00000] in <9f5692804bed4122b102b53a993bfd3f>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilder.Initialize (System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00046] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.AssemblyGraphBuilderFactory.GetOrCreate (System.String projectPath, System.Collections.Generic.IReadOnlyCollection`1[T] assemblies, System.Collections.Generic.IReadOnlyCollection`1[T] customScriptAssemblyReferences) [0x00038] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.GetAssemblyGraphBuilder () [0x00027] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilation.SetAllScripts (System.String[] allScripts) [0x0000d] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+  at UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface.SetAllScripts (System.String[] allScripts) [0x00006] in <f452aebcfc6a4120a1f2db5e6a15ab5a>:0 
+
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@ba18377e2205/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.575 seconds
+Domain Reload Profiling: 1215ms
+	BeginReloadAssembly (209ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (345ms)
+		LoadAssemblies (313ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (131ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (113ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (575ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (424ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (209ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4428 unused Assets / (3.5 MB). Loaded Objects now: 5237.
+Memory consumption went from 140.2 MB to 136.7 MB.
+Total: 6.128900 ms (FindLiveObjects: 0.518700 ms CreateObjectMapping: 0.543300 ms MarkObjects: 3.530400 ms  DeleteObjects: 1.535800 ms)
+
+Prepare: number of updated asset objects reloaded= 2

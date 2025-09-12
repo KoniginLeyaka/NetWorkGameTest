@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
 using Unity.Netcode;
-using Unity.VisualScripting;
 using Unity.Netcode.Components;
 
 public class ItemClass : NetworkBehaviour
