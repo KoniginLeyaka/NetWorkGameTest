@@ -1,0 +1,1 @@
+![alt text](https://img-webcalypt.ru/storage/memes/29759/20258/NZJkFi78TfK9rFfBM4dwddQt1idRF5whOHTSYb5Ny4Z6BsrB3JUnVeZn5m1FhQMLUVjupEK695z1gdmXTMKzR7xGDtXnF1X37Ka1iIXvdc76r2EcbNRbXWoud4ir1lLJ.jpeg)
