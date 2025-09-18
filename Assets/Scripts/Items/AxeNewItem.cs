@@ -8,4 +8,8 @@ public class AxeNewItem : ItemClass
     {
         return true;
     }
+    public override void InteractItem()
+    {
+        PickItem();
+    }
 }

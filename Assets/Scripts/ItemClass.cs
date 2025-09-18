@@ -9,6 +9,7 @@ public class ItemClass : NetworkBehaviour
 {
     [SerializeField] private string nameItem = "Unknown item";
     [SerializeField] private string descriptionItem = "Unknown description";
+    public Sprite IconItem;
     public bool isGrabbed = false;
     [SerializeField] private NetworkObject networkObject;
 
@@ -55,6 +56,14 @@ public class ItemClass : NetworkBehaviour
         ReleaseItemOnServerRpc();
         KinematicOnServerRpc(false);
         isGrabbed = false;
+    }
+    protected private void PickItem()
+    {
+        if (isGrabbed) return;
+        if (!IsOwner) RequestOwnershipServerRpc(NetworkManager.Singleton.LocalClientId);
+        GameObject gameManager = GameObject.Find("GameManager");
+        gameManager.GetComponent<InventoryScript>().AddItem(gameObject);
+        DestroyOnServerRpc();
     }
 
     [ServerRpc(RequireOwnership = false)]
@@ -109,5 +118,18 @@ public class ItemClass : NetworkBehaviour
     {
         networkObject.ChangeOwnership(0);
         networkObject.TryRemoveParent();
+    }
+    [ServerRpc(RequireOwnership = false)]
+    private void DestroyOnServerRpc()
+    {
+        //Destroy(gameObject);
+        gameObject.SetActive(false);
+        DestroyOnClientRpc();
+    }
+    [ClientRpc(RequireOwnership = false)]
+    private void DestroyOnClientRpc()
+    {
+        gameObject.SetActive(false);
+        //Destroy(gameObject);
     }
 }

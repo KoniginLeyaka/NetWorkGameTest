@@ -70,6 +70,10 @@ public class ItemsInteract : MonoBehaviour
                 _DescriptionItem.SetText("");
             }
         }
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            GameObject.Find("GameManager").GetComponent<InventoryScript>().RemoveItem(0);
+        }
     }
 
 }
